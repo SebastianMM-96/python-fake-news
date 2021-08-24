@@ -4,3 +4,9 @@
 * EDA
 * Algoritmos básicos
 * Pythorch --> Red Neuronal
+
+## Instalaciones necesarias
+* Conda
+* Pythorch
+* Numpy
+* Jupyter Notebook
